@@ -117,12 +117,9 @@ The app uses the `weather` and `forecast` endpoints to display current weather a
 ## Acknowledgements
 
 - **OpenWeatherMap API**: For providing the weather data.
-- 
+  
 ---
 
 ### Notes:
 
-- You can customize the **API key** in the `script.js` file.
-- The app currently uses **metric units** (°C for temperature, m/s for wind speed).
-
-Let me know if you need any adjustments or additional information in the README!
+- The application currently uses **metric units** (°C for temperature, m/s for wind speed).
